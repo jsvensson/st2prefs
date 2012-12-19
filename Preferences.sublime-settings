@@ -1,0 +1,15 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/Railscasts.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"show_tab_close_buttons": false,
+	"tab_size": 2,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true
+}
