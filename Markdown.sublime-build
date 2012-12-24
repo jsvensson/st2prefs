@@ -1,0 +1,4 @@
+{
+	"cmd": ["mark", "$file"],
+	"selector": "text.html.markdown"
+}
