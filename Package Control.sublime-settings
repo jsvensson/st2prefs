@@ -1,10 +1,12 @@
 {
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"Alignment",
 		"Color Highlighter",
 		"Markdown Preview",
 		"Package Control",
+		"ScopeHunter",
 		"SCSS",
 		"SideBarEnhancements"
 	]
